@@ -6,12 +6,16 @@
 - 🏫 im styding Front-end now , and road to back-end to become a full stack .
 
 ### I studied :
-![Static Badge](https://img.shields.io/badge/C%2B%2B-Basics-black?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=blue)
-![Static Badge](https://img.shields.io/badge/Java-orange?style=plastic&logo=oracle)
-![Static Badge](https://img.shields.io/badge/Object_Oriented_Programming-using%20Java-orange?style=plastic&labelColor=green)
-![Static Badge](https://img.shields.io/badge/Object_Oriented_Programming-using%20Java-orange?style=plastic&labelColor=green)
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Basics-black?style=plastic&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=blue">
+  <img src="https://img.shields.io/badge/Java-orange?style=plastic&logo=oracle">
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-using%20Java-orange?style=plastic&labelColor=green">
+  <img src="https://img.shields.io/badge/Data_Structure-using%20Java-orange?style=plastic&labelColor=purple">
+  <img src="https://img.shields.io/badge/Html-E34F26?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=plastic&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=plastic&logo=Bootstrap&logoColor=white">
+</div>
 
 
 
