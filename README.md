@@ -68,10 +68,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=true&text=Don't%20Give%20Up!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=000000&strokeWidth=3&animation=blink&descSize=19&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
 
+  <img style="width : 100%"  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=true&text=Don't%20Give%20Up!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=000000&strokeWidth=3&animation=blink&descSize=19&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 
 
 
