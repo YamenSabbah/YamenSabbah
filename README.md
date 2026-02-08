@@ -12,7 +12,7 @@
     </summary>
   </ul>
 </div>
-<p align="left">- 🎓 Front-End Development student  <br>- 🌱 Currently learning **JavaScript & modern web tools**<br>- 🔜 Planning to move into **Back-End & Full Stack**<br>- 💡 Interested in **Web Development, Problem Solving & Clean UI**<br>- 📫 Reach me anytime — always open to learning & collaboration</p>
+<p align="left">- 🎓 Front-End Development , Junior in Back End <br>- 🌱 Currently learning **JavaScript & modern web tools**<br>- 🔜 Planning to move into **Back-End & Full Stack**<br>- 💡 Interested in **Web Development, Problem Solving & Clean UI**<br>- 📫 Reach me anytime — always open to learning & collaboration</p>
 
 <br clear="both">
 <br>
