@@ -1,4 +1,6 @@
-<h1 align="center">Hey,👋🏻 I'm Yamen Sabbah</h1>
+<h1 align="center">Hey,👋🏻 I'm Yamen Sabbah
+<br>
+Backend Developer</h1>
 <br clear="both">
 
 <img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR4OTgyb2w5bmhkbW9ybHprd3EycXppNDk4d3Q2d2FpNzllazNqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
@@ -12,7 +14,7 @@
     </summary>
   </ul>
 </div>
-<p align="left">- 🎓 Front-End Development , Junior in Back End <br>- 🌱 Currently learning React.Js and Back End Tools**<br>- 🔜 Planning to move into ** Full Stack **<br>- 💡 Interested in **Web Development, Problem Solving & Clean UI**<br>- 📫 Reach me anytime — always open to learning & collaboration</p>
+<p align="left">- 🎓 Backend Development , Junior in Back <br>- 🌱 Currently learning React.Js and Back End Tools**<br>- 🔜 Planning to move into ** Full Stack **<br>- 💡 Interested in **Web Development, Problem Solving & Clean UI**<br>- 📫 Reach me anytime — always open to learning & collaboration</p>
 
 <br clear="both">
 <br>
